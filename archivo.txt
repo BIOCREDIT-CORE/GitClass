@@ -1,2 +1,5 @@
 Este es un nuevo archivo
 Segundo ajuste del archivo
+
+numeros impares:
+1,3,5,7,9
