@@ -1,2 +1,5 @@
 Este es un nuevo archivo
 Segundo ajuste del archivo
+
+numeros pares
+2,4,6,8,10
